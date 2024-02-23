@@ -12,8 +12,8 @@ ext {
     compileSdkVersion = 34
     targetSdkVersion = 34
     buildToolsVersion = "34.0.0"
-    javaVersion = JavaVersion.VERSION_1_7
-    ndkVersion = "23.2.8568313"
+    javaVersion = JavaVersion.VERSION_1_8
+    ndkVersion = "23.1.7779620"
     cmakeVersion = "3.22.1"
     abiFilters = "armeabi-v7a,arm64-v8a,x86,x86_64"
     useASAN = false
